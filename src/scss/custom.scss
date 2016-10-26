@@ -1,0 +1,28 @@
+
+// modal  
+.modal-title i{
+	float: left;
+	margin-top: 10px;
+}
+.modal-title-body{
+	margin-left: 20px;
+}
+.modal-title-text{
+	font-weight: bold;
+	font-size: 14px;
+}
+.modal-title-description{
+	margin-top: 2px;
+}
+.nav-tabs > li.active > a, 
+.nav-tabs > li.active > a:hover, 
+.nav-tabs > li.active > a:focus{
+	border-bottom-color:#fff;
+}
+
+.back-bor-null{
+	background-color: #2f4050;
+	border-top: medium none #2f4050;
+	color: #758492;
+	text-align: center;
+}
