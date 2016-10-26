@@ -4,6 +4,7 @@
   "description": "基于vue@1.x，INSPINIA+ Admin Theme，Bootstrap v3.3.4的后台模板",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --inline --colors --hot --port 8080",
+    "build" : "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "noop",
